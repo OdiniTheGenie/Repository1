@@ -1,8 +1,9 @@
 .header {
-            background-image: linear-gradient(to bottom right, black, silver);
-            padding: 2px;
-            text-align: center;
-            background-align: center;
-            width: 100%;
-            height: 50%;
-	    }
+  background-image: linear-gradient(to bottom right, black, silver);
+  padding: 2px;
+  text-align: center;
+  background-align: center;
+  width: 100%;
+  height: 50%;
+  font-family: arial;
+}
