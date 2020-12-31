@@ -39,3 +39,9 @@ p {
 footer {
 	padding: 0 0 0 5px;
 }
+
+#Blog {
+	background-color: orange; height: 400px; width: 310px;
+	border: 2px solid black;
+	margin: 50px;
+}
