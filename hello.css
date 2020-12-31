@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	border: 5px solid lightgray
 }
 
 header {
@@ -33,15 +34,29 @@ nav ul li a {
 }
 
 p {
-	padding: 0 0 0 30px;
+	margin: 30px;
 }
 
 footer {
 	padding: 0 0 0 5px;
 }
 
-#Blog {
+#b {
+	font-family: serif;
+	border: 2px solid black; height: 20px; width: 200px;
+	text-align: center;
+}
+
+.Blog {
 	background-color: orange; height: 400px; width: 310px;
 	border: 2px solid black;
 	margin: 50px;
+}
+
+#first {
+
+}
+
+#first:hover {
+	background-image: 
 }
