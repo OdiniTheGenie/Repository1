@@ -48,15 +48,29 @@ footer {
 }
 
 .Blog {
-	background-color: orange; height: 400px; width: 310px;
+	background-color: orange; height: 310px; width: 400px;
 	border: 2px solid black;
 	margin: 50px;
 }
 
-#first {
+.Blog:hover {
+	background-color: grey;
+}
 
+#first {
+	background-image: url();
+	background-repeat: no-repeat;
 }
 
 #first:hover {
-	background-image: 
+	
+}
+
+.center {
+	text-align: center;
+}
+
+.letter {
+	color: orange;
+	font-size: 25px;
 }
