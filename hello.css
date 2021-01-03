@@ -21,6 +21,10 @@ nav ul {
 	display: inline;
 }
 
+a:link {
+	text-decoration: none;
+}
+
 nav ul li {
 	background: black;
 	color: white;
@@ -73,4 +77,10 @@ footer {
 .letter {
 	color: orange;
 	font-size: 25px;
+}
+
+footer {
+	background-color: black; height: 50px;
+	color: white;
+	text-align: center;
 }
